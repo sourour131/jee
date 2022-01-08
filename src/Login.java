@@ -44,7 +44,7 @@ public class Login extends HttpServlet {
 		String name = request.getParameter("name");
 		String pass = request.getParameter("pass");
 		
-		if(name.equals("sourour") && pass.equals("ppp")) {
+		if(name.equals("sourour") && pass.equals("0000")) {
 			HttpSession session = request.getSession();
 			session.setAttribute("name", name);
 			response.sendRedirect("produits.jsp");

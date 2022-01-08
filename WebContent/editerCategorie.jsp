@@ -8,6 +8,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
 <title> Modification des catégories</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
 </head>
 <body>
 <%@include file="header.jsp" %>
